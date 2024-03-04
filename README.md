@@ -4,7 +4,7 @@ Culinovel is a social network dedicated to food enthusiasts and lovers. Share yo
 
 ### Built With
 
-* [![MongoDB][MongoDB]][MOngoDB-url]
-* [![Express][Express.js]][Express-url]
-* [![Node][Node.js]][Next-url]
-* [![Angular][Angular.io]][Angular-url]
+* MongoDB
+* Express
+* Node
+* Angular
